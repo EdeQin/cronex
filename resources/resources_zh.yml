@@ -1,0 +1,76 @@
+# resources_en.yml
+---
+expression_empty_exception:         '表达式不能为空'
+interval_description_format:        '每周的每%s天'
+between_description_format:         '%s 到 %s'
+between_weekday_description_format: '%s 到 %s'
+on_the_day_of_the_month:            'on the {{nth}} %s of the month'
+on_the_of_the_month:                'on the %s of the month'
+on_the_last_of_the_month:           'on the last %s of the month'
+on_the_last_day_of_the_month:       'on the last day of the month'
+on_the_last_weekday_of_the_month:   'on the last weekday of the month'
+between_days_of_the_month:          '每月的第%s天到%s天'
+seconds_through_past_the_minute:    'seconds %s through %s past the minute'
+between_x_and_y:                    '从 %s 到 %s'
+past_the_hour:                      'past the hour'
+at_x_seconds_past_the_minute:       'at %s seconds past the minute'
+minutes_through_past_the_hour:      'minutes %s through %s past the hour'
+on_day_of_the_month:                'on day %s of the month'
+last_day:                           '最后一天'
+first_weekday:                      'first weekday'
+weekday_nearest_day:                'weekday nearest day %s'
+starting:             '正在开始'
+only_on:              '只在%s'
+only_in:              '只在%s'
+every_x_seconds:      '每%s秒'
+every_minute_between: '每分钟的%s到%s'
+every_second:         '每秒'
+every_minute:         '每分'
+every_1_minute:       '每一分钟'
+every_hour:           '每小时'
+every_1_hour:         '每一个小时'
+every_day:            '每天'
+every_1_day:          '每一天'
+every_year:           '每年'
+every_x:              '每%s'
+at_x:                 '在%s'
+on_x:                 '在%s'
+in_x:                 '在%s'
+first:     第一
+second:    第二
+third:     第三
+fourth:    第四
+fifth:     第五
+time_pm:   下午
+time_am:   上午
+and:       和
+at:        在
+day:       天
+days:      天
+hour:      小时
+hours:     小时
+minute:    分
+minutes:   分
+month:     月
+months:    月
+year:      年
+years:     年
+monday:    周一
+tuesday:   周二
+wednesday: 周三
+thursday:  周四
+friday:    周五
+saturday:  周六
+sunday:    周末
+january:   一月
+february:  二月
+march:     三月
+april:     四月
+may:       五月
+june:      六月
+july:      七月
+august:    八月
+september: 九月
+october:   十月
+november:  十一月
+december:  十二月
